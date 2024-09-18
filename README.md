@@ -45,7 +45,7 @@
 
 <br />
 
-Hi,I'm Devran DOĞAN🙌, a software engineer, I like programming, mostly RL & DRL, but I am also interested in other Machine Learning models and Neural Networks. Apart from that I love learning, problem Solving, and studying Physics.❤✌
+Hi, I'm Devran DOĞAN🙌. A software engineer, I like programming, mostly RL & DRL, but I am also interested in other Machine Learning models and Neural Networks. Apart from that I love learning, problem Solving, and studying Physics.❤
 
 
 <!-- <img align="right" width="200" height="200" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" /> -->
