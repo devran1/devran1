@@ -9,6 +9,10 @@
 <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
+<a href="https://www.kaggle.com/devrandoan">
+<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />
+</a>
+
 <a href="https://www.x.com/@zeroblurryvoxel">
 <img align="left" width="22px" src="https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcS6wBfu8pOyHJtJ2WklNquY5xfT8yZKpzvpknHx5PpJw7gIDcnICP3AjNC858v-OjGgJWdKalgsw57EKxjvMofEd6cUg7XoXQ184oPFWRWbsQ"/>
 </a>
