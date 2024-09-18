@@ -53,7 +53,7 @@ Hi,I'm Devran DOĞAN🙌, a software engineer, I like programming, mostly RL & D
 
 <!-- <img align="right" width="200" height="50"  src="keep_coding.webp" /> -->
 
-<img align="right" width="380" height="380" src="code.webp" />
+<img align="right" width="350" height="350" src="code.webp" />
 
 
 
