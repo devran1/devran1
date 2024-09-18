@@ -1,6 +1,6 @@
 ###  ✨ Hi there, you have made it! ✨
 
-📫 How to reach me
+📫 How to reach me: Any of my Social-Media Platforms
 
 ------
 <br/>
@@ -60,19 +60,10 @@ Hi,I'm Devran DOĞAN🙌, a software engineer, I like programming, mostly RL & D
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently Intern at CodeCrunch.
-- 🌱 I’m currently learning Angular.
-- 👯 Part of Developer Community.
-- 💬 Ask me about anything , Would love to answer them.✌
-- 📫 How to reach me: Any of the Social-Media Platform 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-<--
+- 🌱 I’m currently learning more about NN, RL and DRL.
+- 💬 Ask me about anything, I would like to answer them.
+
+<!--
 - ⚡ Check out my recent [Blogs](https://medium.com/@)
 - 📝[Portfolio](https://devran1.github.io/MyPortfolio/)
 - ✨ I can draw too.[ArtGallery](https://www.instagram.com/@/) -->
@@ -87,7 +78,7 @@ Hi,I'm Devran DOĞAN🙌, a software engineer, I like programming, mostly RL & D
 -->
 
 **Languages and Tools:**
-<img align="right" width="200" height="200" src="neo.webp" />
+<!-- <img align="right" width="250" height="200" src="neo.webp" /> -->
 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -98,7 +89,7 @@ Hi,I'm Devran DOĞAN🙌, a software engineer, I like programming, mostly RL & D
 
 
 
-### DONT BELIEVE THOSE STATS
+### THESE STATS SEEMS A LITTLE BIT OLD
 ![Sakigo's github stats](https://github-readme-stats.vercel.app/api?username=devran1&show_icons=true&hide_border=true)
 
 
