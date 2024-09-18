@@ -1,7 +1,10 @@
 ###  ✨ Hi there, you have made it! ✨
 
+📫 How to reach me
 
+------
 <br/>
+
 <a href="https://devran1.github.io/MyPortfolio/">
 <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
@@ -32,6 +35,8 @@
 
 <br />
 
+------
+
 <br />
 
 
@@ -43,7 +48,14 @@
 Hi,I'm Devran DOĞAN🙌, a software engineer, I like programming, mostly RL & DRL, but I am also interested in other Machine Learning models and Neural Networks. Apart from that I love learning, problem Solving, and studying Physics.❤✌
 
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
+<!-- <img align="right" width="200" height="200" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" /> -->
+<!-- <img align="right"  src="coffee.webp" /> -->
+
+<!-- <img align="right" width="200" height="50"  src="keep_coding.webp" /> -->
+
+<img align="right" width="400" height="400" src="code.webp" />
+
+
 
 
 **Talking about Personal Stuffs:**
@@ -58,7 +70,6 @@ Hi,I'm Devran DOĞAN🙌, a software engineer, I like programming, mostly RL & D
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 <--
@@ -76,6 +87,7 @@ Hi,I'm Devran DOĞAN🙌, a software engineer, I like programming, mostly RL & D
 -->
 
 **Languages and Tools:**
+<img align="right" width="200" height="200" src="neo.webp" />
 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
