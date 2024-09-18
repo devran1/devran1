@@ -53,7 +53,7 @@ Hi,I'm Devran DOĞAN🙌, a software engineer, I like programming, mostly RL & D
 
 <!-- <img align="right" width="200" height="50"  src="keep_coding.webp" /> -->
 
-<img align="right" width="400" height="400" src="code.webp" />
+<img align="right" width="380" height="380" src="code.webp" />
 
 
 
@@ -89,7 +89,6 @@ Hi,I'm Devran DOĞAN🙌, a software engineer, I like programming, mostly RL & D
 
 
 
-### THESE STATS SEEMS A LITTLE BIT OLD
-![Sakigo's github stats](https://github-readme-stats.vercel.app/api?username=devran1&show_icons=true&hide_border=true)
+![Devran's github stats](https://github-readme-stats.vercel.app/api?username=devran1&show_icons=true&hide_border=true)
 
 
