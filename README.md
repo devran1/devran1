@@ -1,6 +1,6 @@
 ###  ✨ Hi there, you have made it! ✨
 
-📫 How to reach me: Any of my Social-Media Platforms
+📫 How to reach me: Any of my Social-Media accounts
 
 ------
 <br/>
