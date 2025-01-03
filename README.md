@@ -17,7 +17,7 @@
 <img align="left" width="22px" src="https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcS6wBfu8pOyHJtJ2WklNquY5xfT8yZKpzvpknHx5PpJw7gIDcnICP3AjNC858v-OjGgJWdKalgsw57EKxjvMofEd6cUg7XoXQ184oPFWRWbsQ"/>
 </a>
 
-<a href="https://www.linkedin.com/in/devran-d">
+<a href="https://www.linkedin.com/in/devran1-67b804340/">
 <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <!--
